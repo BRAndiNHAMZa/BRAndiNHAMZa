@@ -1,0 +1,1 @@
+I am a proficient Android and web application developer with expertise in Dart and Flutter, harnessing the power of Firebase for dynamic and efficient functionality. Additionally, I specialize in creating seamless experiences using HTML, CSS, and JavaScript for web development, along with Python Flask for backend support. 
